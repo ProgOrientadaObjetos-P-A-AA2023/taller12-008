@@ -32,8 +32,6 @@ public class Televisor {
         return precio;
     }
     
-  
-    
     @Override
     public String toString(){
         return String.format("TV:%s\n%s",
