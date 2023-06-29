@@ -1,5 +1,5 @@
 # taller13
-
+Por Alex Ramirez y Carlos Mejia
 ### Problema 01
 
 * Analice la problemática del Problema01, regenere la solución aplicando **Single responsibility principle**
